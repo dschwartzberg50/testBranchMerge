@@ -1,2 +1,2 @@
 # testBranchMerge
-test
+initial main
